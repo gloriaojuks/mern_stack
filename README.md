@@ -1,1 +1,1 @@
-the part2(server side) cab be found here 
+the part2(server side) can be found here 
